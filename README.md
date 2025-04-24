@@ -1,11 +1,11 @@
-# dalilmukhitov.github.io
+# mukhitow.github.io
 
-# 👨‍💻 Добро пожаловать!
+# 👨‍💻 Welcome!
 
-📂 Здесь я собираю свои скрипты, заметки и инструменты по IT-администрированию.
+📂 Here I collect my scripts, notes and tools on IT administration.
 
-## 📜 Полезные материалы
+## 📜 Useful materials
 
-- 🔐 [Скрипты по безопасности](./security/)
-- 🛠️ [PowerShell коллекция](./powershell/)
-- 🧠 [SCCM шаблоны и отчёты](./sccm/)
+- 🔐 [Security Scripts](./security/)
+- 🛠️ [PowerShell Collection](./powershell/)
+- 🧠 [SCCM templates and reports](./sccm/)
