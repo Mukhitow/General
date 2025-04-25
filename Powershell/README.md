@@ -2,10 +2,4 @@
 
 # 👨‍💻 Welcome!
 
-📂 Here I collect my scripts, notes and tools on IT administration.
-
-## 📜 Useful materials
-
-- 🔐 [Security Scripts](./security/)
-- 🛠️ [PowerShell Collection](./powershell/)
-- 🧠 [SCCM templates and reports](./sccm/)
+📂 This is my powershell script for sccm
