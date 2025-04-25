@@ -7,5 +7,5 @@
 ## 📜 Useful materials
 
 - 🔐 [Security Scripts](./security/)
-- 🛠️ [PowerShell Collection](./Powershell/README.md)
+- 🛠️ [PowerShell Collection](./Powershell/)
 - 🧠 [SCCM templates and reports](./sccm/)
