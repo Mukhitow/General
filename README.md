@@ -7,5 +7,5 @@
 ## 📜 Useful materials
 
 - 🔐 [Security Scripts](./security/)
-- 🛠️ [PowerShell Collection](./Powershell/)
+- 🛠️ [PowerShell Collection](./Powershell/PCName_to_collection.PS1)
 - 🧠 [SCCM templates and reports](./sccm/)
