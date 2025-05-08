@@ -2,4 +2,4 @@
 
 # 👨‍💻 Welcome!
 
-📂 This is my powershell script for sccm
+📂 This is my security script for sccm
