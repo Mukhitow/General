@@ -9,3 +9,4 @@
 - 🔐 [Security Scripts](./security/)
 - 🛠️ [PowerShell Collection](./Powershell/)
 - 🧠 [SCCM templates and reports](./sccm/)
+- 🌎 [Английская версия](./README_EN.md)
